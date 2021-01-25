@@ -2,91 +2,80 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d6127ac1-4f39-480c-bcbb-8aa48594a7ec" name="mofat" url="https://stgmoffattscra.wpengine.com/">
-        <fileTransfer host="stgmoffattscra.sftp.wpengine.com" port="2222" rootFolder="/wp-content/themes/moffatt-scrap-iron" accessType="SFTP">
+        <fileTransfer rootFolder="/wp-content/themes/moffatt-scrap-iron" accessType="SFTP" host="stgmoffattscra.sftp.wpengine.com" port="2222" sshConfigId="a90b0fdf-0817-4979-bca0-0db821d131b1" sshConfig="mofat">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
       <webServer id="c8d583e8-2967-44df-a67b-f3547e251018" name="nomad-golf-stage" url="https://www.staging6.golfskiwarehouse.com/">
-        <fileTransfer host="golfskiwarehouse.com" port="21" rootFolder="/public_html/wp-content/themes/golf-ski">
+        <fileTransfer rootFolder="/public_html/wp-content/themes/golf-ski" host="golfskiwarehouse.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="0b68aa86-ce59-40c9-95c0-36f5ac4c0be1" name="ready 3 old" url="http://ready-for-feedback3.com/target-market/legion/">
-        <fileTransfer host="64.91.224.47" port="25566" rootFolder="/var/www/html/nomad-communications/golf-ski-maintenance" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/html/nomad-communications/golf-ski-maintenance" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="4885997a-ba9b-4ed5-b111-aec872038d99" sshConfig="ready 3 old">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="25566" />
         </fileTransfer>
       </webServer>
       <webServer id="d24a55d1-a409-4a15-851c-8dcda01e0ff6" name="river-island" url="https://riverlandingdentistry.com/">
-        <fileTransfer host="sftp.flywheelsites.com" port="22" rootFolder="/org-digico-agency/river-landing-dentistry/wp-content/themes/rebecazechmann" accessType="SFTP">
+        <fileTransfer rootFolder="/org-digico-agency/river-landing-dentistry/wp-content/themes/rebecazechmann" accessType="SFTP" host="sftp.flywheelsites.com" port="22" sshConfigId="6f41af6f-8e4e-4ef0-b776-c3f0275b06b6" sshConfig="river-island">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="5b93caef-ee88-4f62-890a-8615197892dc" name="ready3" url="http://ready-for-feedback3.com/target-market/blog-project/">
-        <fileTransfer host="64.91.224.47" port="25566" rootFolder="/var/www/html/target-market/blog-project/wp-content/themes/react-theme" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/html/target-market/blog-project/wp-content/themes/react-theme" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="4885997a-ba9b-4ed5-b111-aec872038d99" sshConfig="ready 3 old">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="25566" />
         </fileTransfer>
       </webServer>
       <webServer id="991ad818-c4fc-4598-8697-0067494e0e8b" name="leahy" url="https://leahylaw.wpengine.com/">
-        <fileTransfer host="leahylaw.sftp.wpengine.com" port="2222" rootFolder="/wp-content/themes/leahylaw" accessType="SFTP">
+        <fileTransfer rootFolder="/wp-content/themes/leahylaw" accessType="SFTP" host="leahylaw.sftp.wpengine.com" port="2222" sshConfigId="de4b239d-37d9-42ef-89e7-13e31850eb64" sshConfig="leahy">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
       <webServer id="88f937c1-71c7-40db-9785-bc6a51a11be6" name="rosemary" url="https://rosemaryrye.wpengine.com">
-        <fileTransfer host="rosemaryrye.sftp.wpengine.com" port="2222" rootFolder="/wp-content/themes/rosemary" accessType="SFTP">
+        <fileTransfer rootFolder="/wp-content/themes/rosemary" accessType="SFTP" host="rosemaryrye.sftp.wpengine.com" port="2222" sshConfigId="6d157785-549f-4670-af8b-bd8a5f9c8e2e" sshConfig="rosemary">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
       <webServer id="d79653dc-4fdc-4e50-9652-5c2a9fb12343" name="losos2" url="http://test2.losos.studio">
-        <fileTransfer host="test2.losos.studio" port="21" rootFolder="/wp-content/themes/webp-theme">
+        <fileTransfer rootFolder="/wp-content/themes/webp-theme" host="test2.losos.studio" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="f1f94f9d-7390-4dd5-8173-f90467db3406" name="jkjewell" url="http://ready-for-feedback3.com/target-market/shivy/">
-        <fileTransfer host="64.91.224.47" port="25566" rootFolder="/var/www/html/target-market/shivy/wp-content/themes/jkdesigns" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/html/target-market/shivy/wp-content/themes/jkdesigns" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="4885997a-ba9b-4ed5-b111-aec872038d99" sshConfig="ready 3 old">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="25566" />
         </fileTransfer>
       </webServer>
-      <webServer id="75c6ae0e-5f84-491e-8684-88d7620f3486" name="dmid" url="https://dmid.wpengine.com/">
-        <fileTransfer host="dmid.sftp.wpengine.com" port="2222" rootFolder="/wp-content/themes/mid" accessType="SFTP">
+      <webServer id="75c6ae0e-5f84-491e-8684-88d7620f3486" name="dallas" url="https://dhygenikx.wpengine.com/">
+        <fileTransfer rootFolder="/wp-content/themes/Hygenikx" accessType="SFTP" host="dhygenikx.sftp.wpengine.com" port="2222" sshConfigId="05d5f192-0dc8-45e1-955f-23c635a354a5" sshConfig="Dallashygenikx">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
       <webServer id="c4a16322-a1b1-4c3b-b76f-464ae0c7a7bc" name="nomad-golf" url="http://ready-for-feedback3.com/nomad-communications/golf-ski-maintenance/">
-        <fileTransfer host="64.91.224.47" port="25566" rootFolder="/var/www/html/nomad-communications/golf-ski-maintenance/wp-content/themes/golf-ski" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/html/nomad-communications/golf-ski-maintenance/wp-content/themes/golf-ski" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="4885997a-ba9b-4ed5-b111-aec872038d99" sshConfig="ready 3 old">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="25566" />
         </fileTransfer>
       </webServer>
     </option>

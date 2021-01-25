@@ -2,6 +2,24 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="64.91.224.47" id="13f3539b-55d1-4a5a-8cc2-0bcec37a3857" port="25566" nameFormat="DESCRIPTIVE" username="leib0" />
+      <sshConfig authType="PASSWORD" host="stgmoffattscra.sftp.wpengine.com" id="a90b0fdf-0817-4979-bca0-0db821d131b1" port="2222" customName="mofat" nameFormat="CUSTOM">
+        <option name="customName" value="mofat" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="64.91.224.47" id="4885997a-ba9b-4ed5-b111-aec872038d99" port="25566" customName="ready 3 old" nameFormat="CUSTOM">
+        <option name="customName" value="ready 3 old" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="sftp.flywheelsites.com" id="6f41af6f-8e4e-4ef0-b776-c3f0275b06b6" port="22" customName="river-island" nameFormat="CUSTOM">
+        <option name="customName" value="river-island" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="leahylaw.sftp.wpengine.com" id="de4b239d-37d9-42ef-89e7-13e31850eb64" port="2222" customName="leahy" nameFormat="CUSTOM">
+        <option name="customName" value="leahy" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="rosemaryrye.sftp.wpengine.com" id="6d157785-549f-4670-af8b-bd8a5f9c8e2e" port="2222" customName="rosemary" nameFormat="CUSTOM">
+        <option name="customName" value="rosemary" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="dmid.sftp.wpengine.com" id="58d64bf2-854e-468c-b2c5-dbb8be0888ff" port="2222" customName="dmid" nameFormat="CUSTOM">
+        <option name="customName" value="dmid" />
+      </sshConfig>
     </configs>
   </component>
 </application>
