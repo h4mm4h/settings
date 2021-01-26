@@ -64,13 +64,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="75c6ae0e-5f84-491e-8684-88d7620f3486" name="dallas" url="https://dhygenikx.wpengine.com/">
-        <fileTransfer rootFolder="/wp-content/themes/Hygenikx" accessType="SFTP" host="dhygenikx.sftp.wpengine.com" port="2222" sshConfigId="05d5f192-0dc8-45e1-955f-23c635a354a5" sshConfig="Dallashygenikx">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="c4a16322-a1b1-4c3b-b76f-464ae0c7a7bc" name="nomad-golf" url="http://ready-for-feedback3.com/nomad-communications/golf-ski-maintenance/">
         <fileTransfer rootFolder="/var/www/html/nomad-communications/golf-ski-maintenance/wp-content/themes/golf-ski" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="4885997a-ba9b-4ed5-b111-aec872038d99" sshConfig="ready 3 old">
           <advancedOptions>
