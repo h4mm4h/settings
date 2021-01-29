@@ -29,8 +29,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="5b93caef-ee88-4f62-890a-8615197892dc" name="ready3" url="http://ready-for-feedback3.com/target-market/blog-project/">
-        <fileTransfer rootFolder="/var/www/html/target-market/blog-project/wp-content/themes/react-theme" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="4885997a-ba9b-4ed5-b111-aec872038d99" sshConfig="ready 3 old">
+      <webServer id="5b93caef-ee88-4f62-890a-8615197892dc" name="ready3" url="http://ready-for-feedback3.com/evok-advertising/knowyourhivstatus/">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="13f3539b-55d1-4a5a-8cc2-0bcec37a3857" sshConfig="leib0@64.91.224.47:25566 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -72,11 +72,10 @@
         </fileTransfer>
       </webServer>
       <webServer id="685810f2-de1c-48d6-a046-17c26af7806b" name="nomad-golf-live" url="https://www.staging6.golfskiwarehouse.com/">
-        <fileTransfer host="golfskiwarehouse.com" port="21" rootFolder="/wp-content/themes">
+        <fileTransfer rootFolder="/wp-content/themes" host="golfskiwarehouse.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
