@@ -97,7 +97,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="gridb" value="&lt;div class=&quot;container&quot;&gt;&#10;  &lt;div class=&quot;row&quot;&gt;&#10;    &#10;  &lt;/div&gt;&#10;&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="gridb" value="&lt;div class=&quot;container&quot;&gt;&#10;  &lt;div class=&quot;row&quot;&gt;&#10;    &#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
