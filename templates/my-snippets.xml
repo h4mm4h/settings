@@ -108,4 +108,11 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="ife" value="&lt;?php if( ! empty($1$)) : ?&gt;&#10; $END$&#10;&lt;?php endif; ?&gt;" description="if ! empty" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
