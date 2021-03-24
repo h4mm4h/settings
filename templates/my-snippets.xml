@@ -115,4 +115,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="fore" value="&lt;?php foreach ( $$$1$ as $$$2$ ): ?&gt;&#10;$END$&#10; &lt;?php endforeach; ?&gt;" description="foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
