@@ -71,6 +71,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="95251eb2-a012-4e28-820c-9c99c66fd173" name="wp-engine" url="https://kyblytskyidev.wpengine.com/">
+        <fileTransfer accessType="SFTP" host="kyblytskyidev.sftp.wpengine.com" port="2222" sshConfigId="58d64bf2-854e-468c-b2c5-dbb8be0888ff" sshConfig="wp-engine">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

@@ -17,8 +17,8 @@
       <sshConfig authType="PASSWORD" host="rosemaryrye.sftp.wpengine.com" id="6d157785-549f-4670-af8b-bd8a5f9c8e2e" port="2222" customName="rosemary" nameFormat="CUSTOM">
         <option name="customName" value="rosemary" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="sftp://69.28.69.189" id="58d64bf2-854e-468c-b2c5-dbb8be0888ff" port="2222" customName="dmid" nameFormat="CUSTOM" username="serverpilot">
-        <option name="customName" value="dmid" />
+      <sshConfig authType="PASSWORD" host="kyblytskyidev.sftp.wpengine.com" id="58d64bf2-854e-468c-b2c5-dbb8be0888ff" port="2222" customName="wp-engine" nameFormat="CUSTOM" username="kyblytskyidev-kyblytskyi">
+        <option name="customName" value="wp-engine" />
       </sshConfig>
     </configs>
   </component>
