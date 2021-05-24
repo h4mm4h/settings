@@ -78,6 +78,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="3d0de377-0c24-499f-9bf1-38e3a338ead4" name="pvl" url="http://ready-for-feedback3.com/klik3/pvl/">
+        <fileTransfer rootFolder="/var/www/html/klik3/pvl" accessType="SFTP" host="64.91.224.47" port="25566" sshConfigId="13f3539b-55d1-4a5a-8cc2-0bcec37a3857" sshConfig="leib0@64.91.224.47:25566 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
