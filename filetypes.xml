@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="stylelintrc" type="AUTO_DETECTED" />
       <mapping pattern="file" type="PHP" />
+      <mapping ext="samplehome" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
